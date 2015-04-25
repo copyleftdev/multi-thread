@@ -1,1 +1,1 @@
-examples of multi-core techniques
+examples of multi-processing techniques
